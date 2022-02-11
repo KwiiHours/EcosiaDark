@@ -53,3 +53,7 @@ section.section-wrapper--alternate[data-v-7d51b6e9]{ /* Change div colour to a d
 article.card, div.card, a.card{ /* Apply light colours to special things  */
   background-color: #27282b;
 }
+
+button.query-expansions__control{
+  background: #202124!important;
+}
