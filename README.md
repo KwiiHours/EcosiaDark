@@ -1,7 +1,7 @@
 # Ecosia Dark
 ### A dark theme built for the [Ecosia](https://info.ecosia.org/) search engine.
 
-### Coming soon to the Chrome Web Store and Firefox Add-Ons Browser.
+### Coming soon to the [Chrome Web Store](#coming_soon!) and [Firefox Add-Ons Browser](https://addons.mozilla.org/en-US/firefox/addon/ecosia_dark/).
 
 ##
 
