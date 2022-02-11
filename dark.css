@@ -1,0 +1,55 @@
+:root {
+    --color-background-primary: #202124!important; /* Background colour */
+    --color-background-secondary: #202124!important; /* Background colour */
+    --color-link-results-default: #8ab4f8!important; /* Link result colour */
+    --color-link-results-visited: #bb8af9!important; /* Visited results colour */
+    --color-url: #484a4a!important; /* Mini URL colours */
+    --color-text-primary: #bdc1c6!important; /* Main text colour */
+    --color-link-primary:#36acb8!important; /* */
+    --color-border:#303134!important; /* Border of everything colour */
+    --color-text-tertiary:#bdc1c6!important; /* Tertiary text colour */
+    --color-button-primary:#303134!important; /* Main button colour */
+    --color-button-primary-active:#3c3d41!important; /* Main button colour, clicked*/
+    --color-highlight-primary:#1f2f30!important;/*Hovering slight blue*/
+    --color-border-secondary-hover:#3c3d41!important;/*buttons hover border*/
+    --color-button-primary-focus:#303134!important;/*clicked in buttons*/
+    --color-border-primary-focus:#36acb8!important;/*Border on buttons in settings etc*/
+    --color-border-primary-hover:#36acb8!important;/*Border on buttons in settings etc*/
+    --color-highlighter:#1f2f30!important;/*highlighter of text 232f34*/
+  }
+
+a.account__logo, a.main-header__logo-link, a.entity-links__item, a.index-header__logo, a.index-page-logo{ /* Make logos white */
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(296deg) brightness(200%) contrast(201%);
+}
+
+a.search-navigation__dropdown-link{ /* Make dropdown logos white  */
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(296deg) brightness(300%) contrast(201%);
+}
+
+input.search-form__input{ /* Make input normal coloured  */
+  background-color: #202124;
+}
+
+a.tab__link[data-v-7b0ea424]{ /*   */
+  color:#9a9fa4;
+}
+
+input.input__element[data-v-43045a37]{ /*   */
+  background-color:#303134;
+}
+
+a.link[data-v-45676684]:focus{ /*   */
+  background-color:#1f2f30;
+}
+
+a.link[data-v-45676684]:hover{ /*   */
+  background-color:#1f2f30;
+}
+
+section.section-wrapper--alternate[data-v-7d51b6e9]{ /* Change div colour to a darker blue on ecosia.org */
+  background-color: #1f2f30;
+}
+
+article.card, div.card, a.card{ /* Apply light colours to special things  */
+  background-color: #27282b;
+}
