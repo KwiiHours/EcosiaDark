@@ -60,7 +60,7 @@ Guide coming soon.
 ## Example Images
 Here's what you can expect to see:
 <br/><br/>
-<a href="#" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/y3UZZn5.jpg"></a>
-<a href="#" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/VI04gF9.jpg"></a>
-<a href="#" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/udxaSBP.jpg"></a>
-<a href="#" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/Q8aoISS.jpg"></a>
+<a href="https://i.imgur.com/y3UZZn5.jpg" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/y3UZZn5.jpg"></a>
+<a href="https://i.imgur.com/VI04gF9.jpg" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/VI04gF9.jpg"></a>
+<a href="https://i.imgur.com/udxaSBP.jpg" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/udxaSBP.jpg"></a>
+<a href="https://i.imgur.com/Q8aoISS.jpg" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/Q8aoISS.jpg"></a>

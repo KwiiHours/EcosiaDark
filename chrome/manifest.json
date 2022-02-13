@@ -1,7 +1,7 @@
 {
-    "name": "Ecosia Dark Theme",
+    "name": "Ecosia Darkmode",
     "description": "Browse Ecosia in dark mode - save the planet and your eyes.",
-    "version": "1.2",
+    "version": "1.3",
     "author": "KwiiHours",
     "manifest_version": 3,
     "icons": {
@@ -16,5 +16,5 @@
         "css": ["dark.css"]
       }
     ],
-    "permissions": ["tabs"]
+    "permissions": []
 }
