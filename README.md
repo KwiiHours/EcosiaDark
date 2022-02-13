@@ -1,4 +1,4 @@
-<p align="center"><a href="https://kwii.tk" target="_blank" rel="noreferrer noopener"><img width="150" alt="Ecosia Darkmode Logo" src="https://raw.githubusercontent.com/KwiiHours/EcosiaDark/main/chrome/images/logo.png"></a></p>
+<p align="center"><a href="https://kwii.tk" target="_blank" rel="noreferrer noopener"><img width="150" alt="Ecosia Darkmode Logo" src="https://raw.githubusercontent.com/KwiiHours/EcosiaDark/main/chromium/images/logo.png"></a></p>
 <h1 align="center">Ecosia Darkmode<br/><br/></h1>
 
 <br/>
