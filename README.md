@@ -2,7 +2,7 @@
 <h1 align="center">Ecosia Darkmode<br/><br/></h1>
 
 <br/>
-<p align="center"><a rel="noreferrer noopener" href="https://addons.mozilla.org/firefox/addon/ecosia_dark/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-202124.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>   <a rel="noreferrer noopener" href="#coming_soon"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-202124.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="#coming_soon"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-202124.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>
+<p align="center"><a rel="noreferrer noopener" href="https://addons.mozilla.org/firefox/addon/ecosia_dark/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-202124.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>   <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/ecosia-darkmode/ncidpdcppimaiedanpmfgalibnfefpki?hl=en"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-202124.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="#coming_soon"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-202124.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>
   <a rel="noreferrer noopener" href="https://addons.opera.com/extensions/details/darkmode-for-ecosia/"><img alt="Opera Addons" src="https://img.shields.io/badge/Opera-202124.svg?&style=for-the-badge&logo=opera&logoColor=white"></a>
 <h2> </h2>
 <br/>
@@ -32,7 +32,10 @@ In some cases you may need to refresh the browser on first install for changes t
 4. That's it!
 
 ### Chrome:
-Ecosia Darkmode is coming soon to the Chrome Web Store.
+1. Go to [https://chrome.google.com/webstore/detail/ecosia-darkmode/ncidpdcppimaiedanpmfgalibnfefpki?hl=en](https://chrome.google.com/webstore/detail/ecosia-darkmode/ncidpdcppimaiedanpmfgalibnfefpki?hl=en)
+2. Click "Add to Chrome" in the top right
+3. Click "Add extention" in the popup that appears in the top centre
+4. That's it!
 
 ### Edge:
 Ecosia Darkmode is coming soon to the Edge Add-ons Hub.
