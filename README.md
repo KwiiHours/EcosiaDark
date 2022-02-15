@@ -34,7 +34,7 @@ In some cases you may need to refresh the browser on first install for changes t
 ### Chrome:
 1. Go to [https://chrome.google.com/webstore/detail/ecosia-darkmode/ncidpdcppimaiedanpmfgalibnfefpki?hl=en](https://chrome.google.com/webstore/detail/ecosia-darkmode/ncidpdcppimaiedanpmfgalibnfefpki?hl=en)
 2. Click "Add to Chrome" in the top right
-3. Click "Add extention" in the popup that appears in the top centre
+3. Click "Add extension" in the popup that appears in the top centre
 4. That's it!
 
 ### Edge:
