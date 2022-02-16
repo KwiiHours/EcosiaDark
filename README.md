@@ -35,7 +35,7 @@ In some cases you may need to refresh the browser on first install for changes t
 3. Click "Add extension" in the popup that appears in the top centre
 4. That's it!
 
-### Edge (COMING SOON):
+### Edge:
 1. Go to [https://microsoftedge.microsoft.com/addons/detail/ecosia-darkmode/faiipappccohkjkkocgggbnmkimklpnb](https://microsoftedge.microsoft.com/addons/detail/ecosia-darkmode/faiipappccohkjkkocgggbnmkimklpnb)
 2. Click "Get" in the top right
 3. Click "Add extentsion" in the popup that appears in the top centre
@@ -65,4 +65,4 @@ Here's what you can expect to see:
 | Edge        | Full support    | Yes                 |
 | Opera       | Full support    | Yes                 |
 | Vivaldi     | Partial support | [Partial](https://help.vivaldi.com/desktop/appearance-customization/extensions/#Installing_an_Extension_in_Vivaldi)             |
-| Brave       | Partial support | [Partial](https://brave.com/learn/installing-chrome-extensions/)             |
+| Brave       | Partial support | [Partial](https://support.brave.com/hc/articles/360017909112-How-can-I-add-extensions-to-Brave)             |
