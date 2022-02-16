@@ -38,7 +38,7 @@ In some cases you may need to refresh the browser on first install for changes t
 ### Edge:
 1. Go to [https://microsoftedge.microsoft.com/addons/detail/ecosia-darkmode/faiipappccohkjkkocgggbnmkimklpnb](https://microsoftedge.microsoft.com/addons/detail/ecosia-darkmode/faiipappccohkjkkocgggbnmkimklpnb)
 2. Click "Get" in the top right
-3. Click "Add extentsion" in the popup that appears in the top centre
+3. Click "Add extension" in the popup that appears in the top centre
 4. That's it!
 
 ### Opera:
@@ -60,7 +60,7 @@ Here's what you can expect to see:
 | **Browser** | **Status**      | **Planned Support** |
 |:-----------:|:---------------:|:-------------------:|
 | Chrome      | Full support    | Yes                 |
-| Safari      | No support      | Yes                 |
+| Safari      | No support      | No                  |
 | Firefox     | Full support    | Yes                 |
 | Edge        | Full support    | Yes                 |
 | Opera       | Full support    | Yes                 |
