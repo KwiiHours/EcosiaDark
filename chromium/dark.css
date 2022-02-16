@@ -65,6 +65,7 @@ a.OCymAtvbZYQm2cm_wH2pl{ /* Covid travel advice  */
 a.bpk-button{ /* Airline buttons  */
   background-color:#8ab4f8!important;
   color: #bdc1c6!important;
+  transition: all 10000s ease-in-out!important;
 }
 
 div.banner[data-v-250db4d2]{ /* Ecosia ad banner  */

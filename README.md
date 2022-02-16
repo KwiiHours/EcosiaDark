@@ -6,7 +6,7 @@
   <a rel="noreferrer noopener" href="https://addons.opera.com/extensions/details/darkmode-for-ecosia/"><img alt="Opera Addons" src="https://img.shields.io/badge/Opera-202124.svg?&style=for-the-badge&logo=opera&logoColor=white"></a>
 <h2> </h2>
 <br/>
-<h3 align="center"> Ecosia Darkmode: A dark theme built for the Ecosia search engine.</h3>
+<h3 align="center"> Ecosia Darkmode: A darkmode built for the Ecosia search engine.</h3>
 <br/>
 <p align="center"><strong>Save the planet, and your eyes -</strong> Ecosia Darkmode enables a custom dark theme for all Ecosia searches, giving your eyes a chance to rest while your searches plant trees. </p>
 
