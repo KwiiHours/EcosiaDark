@@ -1,0 +1,204 @@
+
+
+section.statistics-what{ /* stats counters background colour  */
+  background: #27282b!important;
+}
+
+section.how{ /* "how it works" background colour  */
+  background: #202124!important;
+}
+
+h2, h5{ /* Header colour  */
+  color:white!important;
+}
+
+b.statistics-value-highlight{ /* Counter text colour  */
+  color: #bdc1c6!important;
+}
+
+li.statistics-item{ /* Text colour on "how it works"  */
+  color: #7e8287!important;
+}
+
+span.how-text{ /* Text colour below and above the counters  */
+  color: #bdc1c6!important;
+}
+
+div.media{ /* Media outlets background  */
+  background-color: #27282b!important;
+}
+
+section.map-project{ /* Map section background  */
+  background-color: #272a3e!important;
+}
+div.map-headline{ /* Map title background  */
+  background: rgb(39 42 62 / 80%)!important;
+}
+
+p.text-intro{
+  color: #bdc1c6!important;
+}
+
+div.map-project-markers{ /* Change map colour to not be white  */
+  background-image: url(https://i.imgur.com/EKE5QGf.png)!important;
+}
+
+section.reports{
+  background: #27282b!important;
+}
+
+section.snapshots{ /* Greenish colour backgrounds for snapshots  */
+  background: #1f2f30!important;
+}
+p.snapshot-summary, p.snapshot-subtitle{ /* Darker text for nonheader in snapshots  */
+  color:#bdc1c6!important;
+}
+
+footer{ /* Footer background  */
+  background-color: #202124!important;
+}
+
+
+body{
+color:#bdc1c6!important;
+}
+
+li.nav-social-link, svg.b-corp-logo{ /* Make logos white */
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(296deg) brightness(200%) contrast(201%);
+}
+
+nav.search-header.search-header-inversed, nav.search-header.search-header-show{
+  background: #202124!important;
+}
+
+input.search-form-input, div.search-form-wrapper{ /* Make input normal coloured  */
+  background-color: #27282b!important;
+  color:#bdc1c6!important;
+}
+div.search-form-wrapper{
+  border: 1px solid #303134!important;
+}
+
+ul.typeahead{
+  border: 1px solid #303134!important;
+  background: #27282b!important;
+}
+
+li.typeahead-suggestion:not(:last-of-type){
+  border-bottom: 1px solid #303134;
+}
+a.typeahead-link, a.typeahead-link:active, a.typeahead-link:hover, a.typeahead-link:visited{
+  color:#bdc1c6!important;
+}
+
+.typeahead li:hover, .typeahead li:active{
+  background: #1f2f30!important;
+}
+
+nav.dropdown-menu {
+  background: #27282b!important;
+  box-shadow: 0 0 5px 0 #d7d7d700!important;
+  -webkit-box-shadow: 0 0 5px 0 #d7d7d700!important;
+}
+
+div.dropdown-menu-group{
+  border-bottom: 1px solid #202124!important;
+}
+
+a.dropdown-link, a.dropdown-link:active, a.dropdown-link:hover, a.dropdown-link:visited{
+  color: #bdc1c6!important;
+}
+
+div.dropdown-item.is-active, div.dropdown-item:hover{
+  background: #1f2f30!important;
+}
+
+/* ABOUT */
+
+section.statistics, section.contact{ /* Stats and Contact section backgrounds */
+  background: #27282b!important;
+}
+
+section.jobs{ /* Jobs section background */
+  background: #202124!important;
+}
+
+.statistics-value-description{ /* Statistics section description text colour */
+  color: #bdc1c6!important;
+}
+
+.custom-select-options{ /* Hover options on subject */
+  background: #27282b!important;
+}
+
+.site-footer:before{ /* Site image before footer */
+  background: #27282b url(/assets/images/footer-3fe1e83701.png) repeat-x!important;
+}
+
+.custom-select:after{ /* Dropdown arrow on subect */
+  background: #27282b url(/assets/images/arrow-gray-cd9950a8d1.svg) no-repeat !important;
+}
+
+/* PRIVACY */
+
+section.privacy-claims, section.privacy-policy{
+  background: #202124!important;
+}
+
+section#faq{
+  background: #27282b!important;
+}
+
+p.privacy-claims-text, div.privacy-faq-answer{
+  color: #bdc1c6!important;
+}
+
+h4.privacy-claims-title{
+  color:white!important;
+}
+
+section.privacy-small-header{
+  margin: 0px!important;
+  background: #1f2f30!important;
+}
+
+div.js-faq-list{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+section.privacy-policy{
+  margin: 0px 0 0!important;
+  padding-top:50px!important;
+  padding-bottom:50px!important;
+}
+
+div.read-more{
+  background: #202124!important;
+}
+
+/* IMPRINT */
+
+section.imprint-section{
+  background: #202124!important;
+  margin:0px!important;
+  padding-bottom:50px;
+}
+
+/* PRESS */
+
+section#press-materials{
+  background: #202124!important;
+}
+
+span.material-text{
+  color: #bdc1c6!important;
+}
+
+a.btn:hover {
+    color: #fff!important;
+}
+
+a.btn{
+  color: #bdc1c6!important;
+}

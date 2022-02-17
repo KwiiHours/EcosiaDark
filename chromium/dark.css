@@ -38,11 +38,7 @@ input.input__element[data-v-43045a37]{ /*   */
   background-color:#303134;
 }
 
-a.link[data-v-45676684]:focus{ /*   */
-  background-color:#1f2f30;
-}
-
-a.link[data-v-45676684]:hover{ /*   */
+a.link[data-v-45676684]:focus, a.link[data-v-45676684]:hover{ /*   */
   background-color:#1f2f30;
 }
 
@@ -50,7 +46,7 @@ section.section-wrapper--alternate[data-v-7d51b6e9]{ /* Change div colour to a d
   background-color: #1f2f30;
 }
 
-article.card, div.card, a.card, section.card{ /* Apply light colours to special things  */
+article.card, div.card, a.card, section.card{ /* Apply light colours to cards  */
   background-color: #27282b;
 }
 
