@@ -19,9 +19,9 @@
 </p>
 
 <br/><br/>
-## Important:
+## ⚠️ IMPORTANT:
 
-A recent update to Ecosia has broken Ecosia Darkmode. An updated which fixes all such issues has been uploaded, and will be rolling out as soon as each respective browser approves it. Thank you for understanding.
+A recent update to Ecosia has broken Ecosia Darkmode. An update which fixes all such issues has been uploaded, and will be rolling out as soon as each respective browser approves it. Thank you for understanding.
 
 <br/><br/>
 ## How To:  Web Store Installation
