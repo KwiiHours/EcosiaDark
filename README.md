@@ -19,11 +19,6 @@
 </p>
 
 <br/><br/>
-## ⚠️ IMPORTANT:
-
-A recent update to Ecosia has broken Ecosia Darkmode. An update which fixes all such issues has been uploaded, and will be rolling out as soon as each respective browser approves it. Thank you for understanding.
-
-<br/><br/>
 ## How To:  Web Store Installation
 The easiest way to install Ecosia Darkmode is through each browser's respective add-on/extention store.<br/>
 In some cases you may need to refresh the browser on first install for changes to take effect.
@@ -55,19 +50,19 @@ In some cases you may need to refresh the browser on first install for changes t
 ## Example Images
 Here's what you can expect to see:
 <br/><br/>
-<a href="https://i.imgur.com/7vN9xbu.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/7vN9xbu.png"></a>
-<a href="https://i.imgur.com/goZ2I9v.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/goZ2I9v.png"></a>
-<a href="https://i.imgur.com/ZbDHKmG.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/ZbDHKmG.png"></a>
-<a href="https://i.imgur.com/pDhzt0Z.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/pDhzt0Z.png"></a>
+<a href="https://i.imgur.com/nfWF0JS.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/nfWF0JS.png"></a>
+<a href="https://i.imgur.com/lgHKBQq.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/lgHKBQq.png"></a>
+<a href="https://i.imgur.com/mlDrCwQ.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/mlDrCwQ.png"></a>
+<a href="https://i.imgur.com/BAhO1pU.png" target="_blank" rel="noreferrer noopener"><img width="400" src="https://i.imgur.com/BAhO1pU.png"></a>
 
 <br/><br/>
 ## Support by browser
 | **Browser** | **Status**      | **Planned Support** |
 |:-----------:|:---------------:|:-------------------:|
-| Chrome      | Update Pending  | Yes                 |
+| Chrome      | Full support    | Yes                 |
 | Safari      | No support      | No                  |
-| Firefox     | Update Pending  | Yes                 |
+| Firefox     | Full support    | Yes                 |
 | Edge        | Update Pending  | Yes                 |
-| Opera       | Update Pending  | Yes                 |
+| Opera       | Full support    | Yes                 |
 | Vivaldi     | Partial support | [Partial](https://help.vivaldi.com/desktop/appearance-customization/extensions/#Installing_an_Extension_in_Vivaldi)             |
 | Brave       | Partial support | [Partial](https://support.brave.com/hc/articles/360017909112-How-can-I-add-extensions-to-Brave)             |
