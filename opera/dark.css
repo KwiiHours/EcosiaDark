@@ -1,79 +1,215 @@
 :root {
-    --color-background-primary: #202124!important; /* Background colour */
-    --color-background-secondary: #202124!important; /* Background colour */
-    --color-link-results-default: #8ab4f8!important; /* Link result colour */
-    --color-link-results-visited: #bb8af9!important; /* Visited results colour */
-    --color-url: #484a4a!important; /* Mini URL colours */
-    --color-text-primary: #bdc1c6!important; /* Main text colour */
-    --color-link-primary:#36acb8!important; /* */
-    --color-border:#303134!important; /* Border of everything colour */
-    --color-text-tertiary:#bdc1c6!important; /* Tertiary text colour */
-    --color-button-primary:#303134!important; /* Main button colour */
-    --color-button-primary-active:#3c3d41!important; /* Main button colour, clicked*/
-    --color-highlight-primary:#1f2f30!important;/*Hovering slight blue*/
-    --color-border-secondary-hover:#3c3d41!important;/*buttons hover border*/
-    --color-button-primary-focus:#303134!important;/*clicked in buttons*/
-    --color-border-primary-focus:#36acb8!important;/*Border on buttons in settings etc*/
-    --color-border-primary-hover:#36acb8!important;/*Border on buttons in settings etc*/
-    --color-highlighter:#1f2f30!important;/*highlighter of text 232f34*/
-  }
+  --color-background-primary: #202124!important; /* Background colour */
+  --color-background-secondary: #202124!important; /* Background colour */
+  --color-link-results-default: #8ab4f8!important; /* Link result colour */
+  --color-link-results-visited: #bb8af9!important; /* Visited results colour */
+  --color-url: #484a4a!important; /* Mini URL colours */
+  --color-text-primary: #bdc1c6!important; /* Main text colour */
+  --color-link-primary:#008009!important; /* */
+  --color-border:#303134!important; /* Border of everything colour */
+  --color-text-tertiary:#bdc1c6!important; /* Tertiary text colour */
+  --color-button-background-primary:#303134!important; /* Main button colour */
+  --color-button-background-secondary: #303134!important;
+  --color-button-content-secondary: #969ba1!important;/*Links and stuff colours used to be: #bdc1c6*/
+  --color-button-background-secondary-hover: #56585c!important;
+  --color-button-background-secondary-active: #63656a!important;
+  --color-decorative-border-1:#3c4043!important; /* Decorative border colour */
+  --color-button-background-primary-active:#3c3d41!important; /* Main button colour, clicked*/
+  --color-highlight-primary:#44464a!important;/*Hovering slight blue*/
+  --color-border-secondary-hover:#3c3d41!important;/*buttons hover border*/
+  --color-button-primary-focus:#303134!important;/*clicked in buttons*/
+  --color-border-primary-focus:#36acb8!important;/*Border on buttons in settings etc*/
+  --color-border-primary-hover:#36acb8!important;/*Border on buttons in settings etc*/
+  --color-highlighter:#1f2f30!important;/*highlighter of text 232f34*/
+  --color-brand-secondary:#008009!important;/*Brand colour*/
+  --color-disabled: #484a4e!important;/*Disabled colour*/
 
-a.account__logo, a.main-header__logo-link, a.entity-links__item, a.index-header__logo, a.index-page-logo{ /* Make logos white */
-  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(296deg) brightness(200%) contrast(201%);
+  /* Search bar */
+  --color-form-border-default:rgba(0, 0, 0, 0)!important;
+
+}
+
+a.account__logo, a.main-header__logo-link, a.entity-links__item, a.index-header__logo, a.index-page-logo, svg.entity-links__icon{ /* Make logos white */
+filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(296deg) brightness(200%) contrast(201%);
 }
 
 a.search-navigation__dropdown-link{ /* Make dropdown logos white  */
-  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(296deg) brightness(300%) contrast(201%);
+filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(296deg) brightness(300%) contrast(201%);
 }
 
 input.search-form__input{ /* Make input normal coloured  */
-  background-color: #202124;
+background-color: #303134;/* used to be #202124*/
 }
 
 a.tab__link[data-v-7b0ea424]{ /*   */
-  color:#9a9fa4;
+color:#9a9fa4;
 }
 
 input.input__element[data-v-43045a37]{ /*   */
-  background-color:#303134;
+background-color:#303134;
 }
 
-a.link[data-v-45676684]:focus{ /*   */
-  background-color:#1f2f30;
-}
-
-a.link[data-v-45676684]:hover{ /*   */
-  background-color:#1f2f30;
+a.link[data-v-45676684]:focus, a.link[data-v-45676684]:hover{ /*   */
+/* background-color:#1f2f30; */
+background-color:#1a2b1a!important;
 }
 
 section.section-wrapper--alternate[data-v-7d51b6e9]{ /* Change div colour to a darker blue on ecosia.org */
-  background-color: #1f2f30;
+/* background-color:#1f2f30; */
+background-color:#1a2b1a!important;
 }
 
-article.card, div.card, a.card, section.card{ /* Apply light colours to special things  */
-  background-color: #27282b;
+article.card, div.card, a.card, section.card{ /* Apply light colours to cards  */
+background-color: #27282b;
 }
 
 button.query-expansions__control{
-  background: #202124!important;
+background: #202124!important;
 }
 
 a.OCymAtvbZYQm2cm_wH2pl{ /* Covid travel advice  */
-  color:#8ab4f8!important;
+color:#8ab4f8!important;
 }
 
 a.bpk-button{ /* Airline buttons  */
-  background-color:#8ab4f8!important;
-  color: #bdc1c6!important;
-  transition: all 10000s ease-in-out!important;
+background-color:#8ab4f8!important;
+color: #bdc1c6!important;
+transition: all 10000s ease-in-out!important;
 }
 
 div.banner[data-v-250db4d2]{ /* Ecosia ad banner  */
-  background-color: #1f2f30;
+background-color: #1f2f30;
 }
 .banner__close[data-v-250db4d2]:focus, .banner__close[data-v-250db4d2]:hover{ /* Ecosia ad banner button */
-  background-color: #27282b!important;
+background-color: #27282b!important;
 }
 .banner__close[data-v-250db4d2]{ /* Ecosia ad banner button */
-  background-color: #202124!important;
+background-color: #202124!important;
 }
+
+div.main-footer__content{ /* Ecosia footer */
+background-color: rgba(0, 0, 0, 0)!important;
+}
+
+div.search-form__search-field[data-v-f9b8ea00]{
+background-color: #303134!important;
+}
+ul.suggestion-list[data-v-44a29f82]{
+background-color: #303134!important;
+}
+li.suggestion-item.selected[data-v-44a29f82], .suggestion-item[data-v-44a29f82]:active, .suggestion-item[data-v-44a29f82]:hover{
+background-color: var(--color-highlight-primary)!important; /*previously 1f2e1f */
+}
+div.query-expansions__control-background{
+background: rgba(0, 0, 0, 0)!important;
+}
+button.base-button--variant-outline[data-v-48aa256c]{
+background-color: var(--color-button-background-primary)!important;
+box-shadow: 0px 0px 15px 20px var(--color-background-primary);
+/* box-shadow: 10px 0 15px -4px var(--color-background-primary), -10px 0 15px -4px var(--color-background-primary); */
+}
+
+svg.above-fold-section__wave{
+  color: var(--color-background-primary)!important;
+}
+
+
+
+/* new homepage */
+section.above-fold-section[data-v-86eb93e4] {
+background-color:var(--color-background-primary)!important;
+}
+div.indexpage-forest--addon[data-v-5174b269]{
+background-color:var(--color-background-primary)!important;
+}
+p.projects-section__project-description[data-v-78873451], .projects-section__project-title[data-v-78873451]{
+color:var(--color-background-primary)!important;
+}
+section.section-wrapper--gray[data-v-37e9beaa]{
+background: #303134!important; /* Background colour */
+}
+div.wave-seperator--variant-quarternary.wave-seperator, div.wave-seperator--variant-primary[data-v-56f670c8]{
+background-color: #303134!important; /* Background colour */
+}
+h2.section-header__title[data-v-4316b2a3]{
+color: #f7bc00!important;
+}
+a.base-button--variant-outline[data-v-48aa256c]{
+background-color: var(--color-background-primary)!important;
+}
+a.base-button--variant-outline[data-v-48aa256c]:hover{
+background-color: #242527!important;
+}
+div.join-section--content{
+color:white!important;
+}
+
+
+/* new dropdowns */
+div.dropdown[data-v-b5ea10e0], a.notifications-item__link[data-v-84d6ac78], div.main-footer__card[data-v-7aba4391]{
+background-color: var(--color-button-background-primary)!important;
+}
+a.notifications-item__link[data-v-84d6ac78]:hover{
+background-color: var(--color-highlight-primary)!important;
+}
+
+
+/* scrollbar  */
+
+/* Works on Firefox */
+* {
+scrollbar-width: auto!important;
+scrollbar-color: #44464a #303134!important;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+width: auto!important;
+}
+
+*::-webkit-scrollbar-track {
+background: #303134!important;
+}
+
+*::-webkit-scrollbar-thumb {
+background-color: #44464a!important;
+border: 3px solid #303134!important;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+background-color: #57595e!important;
+border: 3px solid #303134!important;
+}
+*::-webkit-scrollbar-thumb :active {
+background-color: #6b6e73!important;
+border: 3px solid #303134!important;
+}
+
+
+/* Buttons */
+::-webkit-scrollbar-button:single-button {
+background-color: #303134;
+display: block;
+border-style: solid;
+height: 13px;
+width: 16px;
+}
+/* Up */
+::-webkit-scrollbar-button:single-button:vertical:decrement {
+border-width: 0 8px 8px 8px;
+border-color: transparent transparent #555555 transparent;
+}
+
+::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
+border-color: transparent transparent #777777 transparent;
+}
+/* Down */
+::-webkit-scrollbar-button:single-button:vertical:increment {
+border-width: 8px 8px 0 8px;
+border-color: #555555 transparent transparent transparent;
+}
+
+::-webkit-scrollbar-button:vertical:single-button:increment:hover {
+border-color: #777777 transparent transparent transparent;
+}
+

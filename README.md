@@ -17,6 +17,9 @@
 • No flickering or flashing<br/>
 • Practical and beautiful design</p>
 </p>
+<br/><br/>
+## IMPORTANT:
+A recent update to Ecosia has broken Ecosia Darkmode. An updated which fixes all such issues has been uploaded, and will be rolling out as soon as each respective browser approves it. Thank you for understanding.
 
 <br/><br/>
 ## How To:  Web Store Installation
