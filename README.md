@@ -59,7 +59,7 @@ Here's what you can expect to see:
 ## Support by browser
 | **Browser** | **Status**      | **Planned Support**                                                                                               |
 |:-----------:|:---------------:|:-------------------:                                                                                              |
-| Chrome      | Full support   | Yes                                                                                                               |
+| Chrome      | Full support    | Yes                                                                                                               |
 | Firefox     | Full support    | Yes                                                                                                               |
 | Edge        | Update Pending  | Yes                                                                                                               |
 | Opera       | Full support    | Yes                                                                                                               |
