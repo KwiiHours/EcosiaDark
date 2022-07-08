@@ -59,10 +59,10 @@ Here's what you can expect to see:
 ## Support by browser
 | **Browser** | **Status**      | **Planned Support**                                                                                               |
 |:-----------:|:---------------:|:-------------------:                                                                                              |
-| Chrome      | Update Pending   | Yes                                                                                                               |
+| Chrome      | Full support   | Yes                                                                                                               |
 | Firefox     | Full support    | Yes                                                                                                               |
 | Edge        | Update Pending  | Yes                                                                                                               |
-| Opera       | Update Pending    | Yes                                                                                                               |
+| Opera       | Full support    | Yes                                                                                                               |
 | Vivaldi     | Partial support | [Partial](https://help.vivaldi.com/desktop/appearance-customization/extensions/#Install_an_extension_in_Vivaldi)  |
 | Brave       | Partial support | [Partial](https://support.brave.com/hc/articles/360017909112-How-can-I-add-extensions-to-Brave)                   |
 | Safari      | No support      | No                                                                                                                |
