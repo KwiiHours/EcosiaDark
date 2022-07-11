@@ -57,12 +57,12 @@ Here's what you can expect to see:
 
 <br/><br/>
 ## Support by browser
-| **Browser** | **Status**      | **Planned Support**                                                                                               |
-|:-----------:|:---------------:|:-------------------:                                                                                              |
-| Chrome      | Full support    | Yes                                                                                                               |
-| Firefox     | Full support    | Yes                                                                                                               |
-| Edge        | Update Pending  | Yes                                                                                                               |
-| Opera       | Full support    | Yes                                                                                                               |
-| Vivaldi     | Partial support | [Partial](https://help.vivaldi.com/desktop/appearance-customization/extensions/#Install_an_extension_in_Vivaldi)  |
-| Brave       | Partial support | [Partial](https://support.brave.com/hc/articles/360017909112-How-can-I-add-extensions-to-Brave)                   |
-| Safari      | No support      | No                                                                                                                |
+| **Browser** | **Status**      | **Planned Support**                                                                                               | **Version**   |
+|:-----------:|:---------------:|:-----------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Chrome      | Full support    | Yes                                                                                                               | 1.52          |
+| Firefox     | Full support    | Yes                                                                                                               | 1.52          |
+| Edge        | Update Pending  | Yes                                                                                                               | 1.51          |
+| Opera       | Full support    | Yes                                                                                                               | 1.52          |
+| Vivaldi     | Partial support | [Partial](https://help.vivaldi.com/desktop/appearance-customization/extensions/#Install_an_extension_in_Vivaldi)  | 1.52          |
+| Brave       | Partial support | [Partial](https://support.brave.com/hc/articles/360017909112-How-can-I-add-extensions-to-Brave)                   | 1.52          |
+| Safari      | No support      | No                                                                                                                | N/A           |
