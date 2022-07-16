@@ -61,7 +61,7 @@ Here's what you can expect to see:
 |:-----------:|:---------------:|:-----------------------------------------------------------------------------------------------------------------:|:-------------:|
 | Chrome      | Full support    | Yes                                                                                                               | 1.52          |
 | Firefox     | Full support    | Yes                                                                                                               | 1.52          |
-| Edge        | Update Pending  | Yes                                                                                                               | 1.51          |
+| Edge        | Full support    | Yes                                                                                                               | 1.52          |
 | Opera       | Full support    | Yes                                                                                                               | 1.52          |
 | Vivaldi     | Partial support | [Partial](https://help.vivaldi.com/desktop/appearance-customization/extensions/#Install_an_extension_in_Vivaldi)  | 1.52          |
 | Brave       | Partial support | [Partial](https://support.brave.com/hc/articles/360017909112-How-can-I-add-extensions-to-Brave)                   | 1.52          |
